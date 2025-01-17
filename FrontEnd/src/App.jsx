@@ -13,6 +13,7 @@ function App() {
                   <Route path="/" element={<Login />} />
                   <Route path="/register" element={<Register />} />
                   <Route path="/check" element={<Check />} />
+                  <Route path="/check" element={<Check />} />
               </Routes>
           </Base>
       </BrowserRouter>
